@@ -1,12 +1,11 @@
-# HEADING 1
+# Exploratory Data Analysis w/SQL: Job Market Analytics
 
 
 ![Project 1 Overview](../Images/1_1_Project1_EDA.png)
 
 
-This SQL Project analyzes the data engineering job market using real world job posting data. This project demonstates my ability to
-
-**Turn business questions into data driven insights,write production-quality analtical SQL, and design efficient queries
+This SQL Project analyzes the data engineering job market using real world job posting data. This project demonstrates my ability to
+turn business questions into data driven insights,write production-quality analytical SQL, and design efficient queries
 
 ## Executive Summary 
 
