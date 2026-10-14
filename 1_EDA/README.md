@@ -6,9 +6,9 @@
 
 This SQL Project analyzes the data engineering job market using real world job posting data. This project demonstates my ability to
 
-**Turn business questions into data driven insights,write production-quality analtical SQL, and design efficient queries
+**Turning business questions into data driven insights,write production-quality analtical SQL, and design efficient queries**
 
-## Executive Summary 
+## Summary 
 
 - **Project scope:** Built **3 analytical queries** that answer key questions about the data engineer job market  
 - **Data modeling:** Used **multi-table joins** across fact and dimension tables to extract insights  
