@@ -4,8 +4,8 @@
 
 ### [Projects](Projects/)
 
-- [**Project #1:** Exploratory Data Analysis](Projects/1_EDA/) — Job market analytics with SQL
-- [**Project #2:** Data Warehouse & Mart Build](Projects/2_WH_Mart_Build/) — Production ETL pipeline from raw CSVs to star schema and data marts
+- [**Project #1:** Exploratory Data Analysis](1_EDA\README.md) — Job market analytics with SQL
+- [**Project #2:** Data Warehouse & Mart Build](2_WH_Mart_Build\README.md) — Production ETL pipeline from raw CSVs to star schema and data marts
 
 
 
