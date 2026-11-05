@@ -8,8 +8,6 @@ Question: What are the most in-demand skills for data engineers?
 - Why? Retrieves the top 10 skills with the highest demand in the remote job market,
     providing insights into the most valuable skills for data engineers seeking remote work
 
-     hr5min35  tutorial
-
 */
 
 SELECT 
